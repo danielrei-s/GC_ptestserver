@@ -8,7 +8,7 @@ skip_files:
   -.env
 
 env_variables:
-  #APP_LOG: errorlog
+  #APP_LOG: erro rlog
   #APP_DEBUG: true
   APP_KEY: base64:npCD/evQ5flrOhCx9raub9TdVuSUOKVh9z65OAy/8KE=
   #STORAGE_DIR: /tmp
